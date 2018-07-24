@@ -5,5 +5,13 @@
   "main": "index.js",
   "repository": "https://github.com/iexus/light-bikes",
   "author": "2.-@twopointline.com",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "webpack": "^4.16.2"
+  },
+  "dependencies": {
+    "phaser": "^3.11.0"
+  }
 }
