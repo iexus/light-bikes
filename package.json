@@ -1,0 +1,9 @@
+{
+  "name": "light-bikes",
+  "version": "0.0.1",
+  "description": "Light bikes!",
+  "main": "index.js",
+  "repository": "https://github.com/iexus/light-bikes",
+  "author": "2.-@twopointline.com",
+  "license": "MIT"
+}
